@@ -13,7 +13,7 @@
   margin-bottom: 0;
   margin-left: 24px;
   margin-right: 24px;
-  width: 34%;
+  width: 380px;
 }
 
 .about {
@@ -43,4 +43,16 @@
   list-style-type: none;
   margin-left: 24px;
   padding: 0;
+}
+
+/* Project section */
+.card {
+  flex-direction: row;
+  width: 65%;
+  height: 18rem;
+}
+
+.span {
+  background-color:#ebebff;
+  color: #6070ff;
 }
