@@ -1,0 +1,46 @@
+.background {
+  background-image: url(./images/Header\ bg.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.introduction {
+  color: #172b4d;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 60px;
+  margin-top: 114px;
+  margin-bottom: 0;
+  margin-left: 24px;
+  margin-right: 24px;
+  width: 34%;
+}
+
+.about {
+  color: #344563;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+
+.supporting-text {
+  color: #7f8cff;
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 12px;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+
+.social-media-links {
+  display: flex;
+  width: 170.17px;
+  justify-content: space-between;
+  list-style-type: none;
+  margin-left: 24px;
+  padding: 0;
+}
